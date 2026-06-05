@@ -5,7 +5,7 @@ import math
 # --- CONFIGURATION CONSTANTS ---
 CONFIDENCE_THRESHOLD = 70
 
-# Priority weights based on John's target personas
+# Priority weights based on target personas
 ROLE_PRIORITIES = {
     'ap manager': 4,
     'accounts payable': 4,
